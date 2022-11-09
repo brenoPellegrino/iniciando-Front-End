@@ -1,0 +1,17 @@
+{
+  "name": "exercicio-dia-01",
+  "version": "1.0.0",
+  "description": "criando um projeto do zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator.js": "^2.0.4",
+    "vite": "^3.2.3",
+    "type": "module"
+  }
+}
